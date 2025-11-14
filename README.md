@@ -39,6 +39,15 @@ Screenshots
   - `screenshots/overview.png` (KPI overview)
   - `screenshots/attrition_by_role.png` (Attrition by job role)
 - To include images in this README, use markdown image syntax: `![Overview](screenshots/overview.png)`.
+Screenshots
+- A project screenshot is included in the repository as `dashboard.png` (at the repository root). Preview:
+
+  ![Dashboard preview](dashboard.png)
+
+- You can also place additional images in a `screenshots/` folder and reference them, for example:
+  - `screenshots/overview.png` (KPI overview)
+  - `screenshots/attrition_by_role.png` (Attrition by job role)
+- To include images in this README, use markdown image syntax: `![Overview](screenshots/overview.png)` or `![Dashboard](dashboard.png)`.
 
 Insights & Suggested Analyses
 - Check whether attrition concentrates in specific `Job Role` or `Department` groups.
